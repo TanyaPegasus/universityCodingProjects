@@ -1,0 +1,8 @@
+milk,tomato,2,1,yes,no,no
+milk,barbecue,3,3,yes,yes,yes
+gluten free,barbecue,1,0,no,yes,no
+milk,barbecue,3,3,yes,yes,yes
+gluten free,barbecue,1,0,no,yes,no
+milk,barbecue,3,3,yes,yes,yes
+milk,barbecue,3,3,yes,yes,yes
+milk,tomato,2,1,yes,no,no
